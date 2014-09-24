@@ -9,3 +9,7 @@ body {
 .h2 {
 	font-size: 2em;
 }
+
+.img-responsive{
+	max-width: 100%;
+}
