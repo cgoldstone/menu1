@@ -1,14 +1,25 @@
 body {
 	background-color: #F0F8FF;
+	font-family: "Trebuchet MS";
 }
 
-.hours {
-	font-size: 1.5em;
+h1 {
+	font-size: 4.5em;
 }
 
-.h2 {
+h2 {
+	font-size: 3.5em;
+}
+
+h3 {
 	font-size: 2em;
 }
+
+p {
+	font-size: 1.25em;
+}
+
+
 
 .img-responsive{
 	max-width: 100%;
@@ -16,4 +27,41 @@ body {
 
 .section{
 	text-align: center;
+}
+
+.active{
+	background-color: #CCCCFF;
+}
+
+.hours {
+	border-style: double;
+	border-width: 10px;
+	background-color: #CCCCFF;
+}
+
+.address{
+	border-style: double;
+	border-width: 10px;
+	background-color: #CCCCFF;
+}
+
+.tag{
+	border-style: double;
+	border-width: 10px;
+	background-color: #CCCCFF;
+}
+
+.social{
+	border-style: double;
+	border-width: 10px;
+	background-color: #CCCCFF;
+}
+
+.price{
+	vertical-align: bottom;
+}
+
+
+.logo{
+	vertical-align: bottom;
 }
