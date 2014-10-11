@@ -65,3 +65,8 @@ p {
 .logo{
 	vertical-align: bottom;
 }
+
+.chocolates{
+	border-style: double;
+	border-width: 10px;
+}
